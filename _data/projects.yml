@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Expert Recommendation System - IBM-QueryBoX
+  role: Idea Owner & Team Lead
+  duration: October 2022
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Built a Expert Recommendation system as an improvement for existing Query resolution platform as part of IBM Hackathon 2022 with a team of 6 IBMer’s <br> We Developed a MVP of Real time Hybrid Expert Recommendation system using TOP-N Recommendation Approach based on users skills and Users context.This will provide a platform for subject Matter experts and Developers to connect in IBM.
+
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Vision Based Alert System for Drivers
+  role: Primary Developer and Idea Owner
+  duration: January 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road <br> A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road.
