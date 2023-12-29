@@ -23,11 +23,9 @@ resume_contact_address:         "201 University Ave,Unit 600, Troy, AL, USA 3608
 resume_header_contact_info:     "Troy, AL, USA • 3344346318 • kalyan.jupudi@outlook.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>As a skilled software developer with experience at IBM, I am passionate about using technology to solve complex problems and drive innovation. My expertise spans a broad range of technologies, including IBM cloud, Python, C, JavaScript, Node.js, Angular, Cypress, recommendation system, machine learning, system design, object-oriented programming, Java, Express, Fastapi, devsecops, Elastic Search, Solr, and Cron jobs.
+resume_header_intro: "<p>As a skilled software developer with experience at IBM, I am passionate about using technology to solve complex problems and drive innovation. My expertise spans a broad range of technologies, including IBM cloud, Python, C, JavaScript, Node.js, Angular, Cypress, recommendation system, machine learning, system design, object-oriented programming, Java, Express, Fastapi, devsecops, Elastic Search, Solr, and Cron jobs.<br>
 
-I hold several certifications, including IBM Cloud Advocate, IBM Cloud Technical Advocate, IBM DevSecOps, and SAP on IBM Cloud Specialty, which demonstrate my commitment to staying on the cutting edge of industry developments. I take pride in my ability to automate tasks that consume significant amounts of time, and I have consistently earned the highest performance ratings and recognition for my productivity and creativity.
-
-Throughout my career, I have worked on diverse projects and collaborated with cross-functional teams to implement innovative solutions that meet and exceed customer needs. As a driven and ambitious professional, I am excited to leverage my skills and experience to take on new challenges and make meaningful contributions to the technology industry.</p>"
+I hold several certifications, including IBM Cloud Advocate, IBM Cloud Technical Advocate, IBM DevSecOps, and SAP on IBM Cloud Specialty, which demonstrate my commitment to staying on the cutting edge of industry developments. I take pride in my ability to automate tasks that consume significant amounts of time, and I have consistently earned the highest performance ratings and recognition for my productivity and creativity.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
