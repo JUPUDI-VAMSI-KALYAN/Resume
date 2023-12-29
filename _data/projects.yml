@@ -8,6 +8,12 @@
   # url: "#"
   description: <ul><li>Breast cancer remains a significant health concern, necessitating advanced drug discovery efforts. This paper presents a comprehensive approach, including target identification, lead discovery, optimization, preclinical testing, clinical trials, and regulatory approval. <li>We focus on the role of aromatase and the significance of pIC50 values in drug discovery. The data gathering process involves two organisms, Homo sapiens and Rattus norvegicus, with a dataset from the ChEMBL database. Additionally, Lipinski descriptors and PaDEL-descriptor are employed for evaluating drug likeness. Our research culminates in the development of regression models for predicting pIC50 values, enhancing drug discovery efficiency.<ul/>
 
+- project: NuroInsight - A Deep Learning Approach to Precise Classification of Brain Tumor
+  role: Primary Developer
+  duration: Nov 2023 
+  # url: "#"
+  description: <ul><li>NuroInsight, a machine learning framework for predictive brain tumor classification. Leveraging a diverse dataset encompassing Glioma, Meningioma, Pituitary, and normal brain images, sourced from the Brain Tumors 256x256 dataset on Kaggle, the framework employs a systematic pipeline comprising data gathering, pre-processing, model training, and deployment. Utilizing various neural network architectures, including custom models, VGG16, ResNet50, and InceptionV3, each tailored to discern specific tumor features, the study achieves noteworthy results. Particularly, the VGG16 model demonstrates high accuracy in distinguishing tumor and non-tumor brain images. The deployment phase marks a crucial step towards practical applications, holding potential for early detection and treatment. Overall, NuroInsight underscores the significance of machine learning in medical imaging, showcasing promising outcomes in brain tumor classification through advanced neural network architectures.<ul/>
+
 - project: Expert Recommendation System - IBM-QueryBoX
   role: Idea Owner & Team Lead
   duration: October 2022
