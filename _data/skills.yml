@@ -8,8 +8,8 @@
   description: MongoDb, Firestore, Cloudant, SQL
 
 # Digital content development and creation
-- skill: Cloud
-  description: BM CLoud, Redhat , Cirrus, AWS
+- skill: Cloud Platforms
+  description: IBM CLoud, Redhat , Cirrus, AWS
 
 - skill: Technologies/Frameworks/Libraries
   description: FastAPI, Docker, Cypress, Angular, Node.js, Solr, Express.js, Django, Tableau, TensorFlow, Scikit-learn, Android Studio, Git
