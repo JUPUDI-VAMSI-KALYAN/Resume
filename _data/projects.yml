@@ -2,9 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Drug Discovery for Breast Cancer - IBM-QueryBoX
-  role: Idea Owner & Team Lead
-  duration: Dec 2023
+- project: Drug Discovery for Breast Cancer
+  role: Idea Owner & Primary Developer
+  duration: Dec 2023 
   # url: "#"
   description: <ul><li>Breast cancer remains a significant health concern, necessitating advanced drug discovery efforts. This paper presents a comprehensive approach, including target identification, lead discovery, optimization, preclinical testing, clinical trials, and regulatory approval. <li>We focus on the role of aromatase and the significance of pIC50 values in drug discovery. The data gathering process involves two organisms, Homo sapiens and Rattus norvegicus, with a dataset from the ChEMBL database. Additionally, Lipinski descriptors and PaDEL-descriptor are employed for evaluating drug likeness. Our research culminates in the development of regression models for predicting pIC50 values, enhancing drug discovery efficiency.<ul/>
 
