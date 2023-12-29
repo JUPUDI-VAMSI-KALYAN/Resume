@@ -1,13 +1,32 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Masters in Computer Science with Software development Specialization
+  uni: Troy University 
+  year: Aug 2023 &mdash; present
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 3.6 GPA (Fall 23)
+    - award: 3rd Place in TroyHack 2023
+    - award: 50% Scholarship
+  summary: Member of CS Club, Troy University
+  
+- degree: B.Tech in Computer Science & Engineering with Data Analytics Specialization
+  uni: Vel Tech Rangarajan Dr Sagunthala R&D Institution of Science and Technology
+  year: 2017 &mdash; May 2021
+  awards:
+    - award: CGPA of 7.93 / 10.0
+    - award: 50% Scholarship
+    - award: Member of Web Design Club
+    - award: TOP 10 in Nokia and IET Chennai smart City Challenge for Vision Disha Project
+  summary: Guinness World Record and Asia Book of Records for Worlds Largest Human Image of Wheel Chair
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Board of Intermideate Education
+  uni: Sri Chaythanya Junior College
+  year: 2015 &mdash; 2017
+  awards:
+    - award: Score of 912 / 1000
+  summary: Studied Maths, Physics and Chemistry.
+
+- degree: High School
+  uni: S V Childrens H S Tirupati
+  year: 2015
+  award: CGPA of 9.0 / 10.0
+  summary: Andhra Pradesh, India.
