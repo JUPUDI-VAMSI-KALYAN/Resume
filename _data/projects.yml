@@ -5,13 +5,19 @@
 - project: Expert Recommendation System - IBM-QueryBoX
   role: Idea Owner & Team Lead
   duration: October 2022
+  awards:
+    - award: A Real time Hybrid Expert Recommendation system using TOP-N Recommendation Approach based on users skills and Users context.
+    - award: This will provide a platform for subject Matter experts and Developers to connect in IBM.
   # url: "#"
-  description: Built a Expert Recommendation system as an improvement for existing Query resolution platform as part of IBM Hackathon 2022 with a team of 6 IBMer’s <br> We Developed a MVP of Real time Hybrid Expert Recommendation system using TOP-N Recommendation Approach based on users skills and Users context.This will provide a platform for subject Matter experts and Developers to connect in IBM.
+  description: This project is part of IBM Hackathon 2022 with a team of 6 IBMer’s.
 
 
 # Springfield Community Outreach Group
 - project: Vision Based Alert System for Drivers
   role: Primary Developer and Idea Owner
   duration: January 2019
+  awards:
+    - award: A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road
+    - award: we Introduced A Proto-Type using Raspberrypi and OpenCv. In this project we developed a Neural Network which can detect most of the indian road signs with 90% Accuracy and we integrated it with a GPS based speed recognition mechanism to alert the users based on road sign and car speed.
   # url: "#"
-  description: A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road <br> A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road.
+  # description:  
