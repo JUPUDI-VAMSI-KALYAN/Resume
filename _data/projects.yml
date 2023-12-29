@@ -13,8 +13,5 @@
 - project: Vision Based Alert System for Drivers
   role: Primary Developer and Idea Owner
   duration: January 2019
-  awards:
-    - award: A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road
-    - award: we Introduced A Proto-Type using Raspberrypi and OpenCv. In this project we developed a Neural Network which can detect most of the indian road signs with 90% Accuracy and we integrated it with a GPS based speed recognition mechanism to alert the users based on road sign and car speed.
   # url: "#"
-  # description:  
+  description:  <ul><li> A Application which will provide Alerts to users based on vehical speed and Traffic Signs on road. <li>we Introduced A Proto-Type using Raspberrypi and OpenCv. In this project we developed a Neural Network which can detect most of the indian road signs with 90% Accuracy and we integrated it with a GPS based speed recognition mechanism to alert the users based on road sign and car speed.<ul>
